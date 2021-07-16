@@ -1,0 +1,4 @@
+﻿  zad9.cpp
+C:\Users\kazen\Desktop\Project\zad9\zad9\zad9.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\kazen\Desktop\Project\zad9\zad9\zad9.cpp(9,23): warning C4101: j: неиспользованная локальная переменная
+  zad9.vcxproj -> C:\Users\kazen\Desktop\Project\zad9\Debug\zad9.exe

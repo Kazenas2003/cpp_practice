@@ -1,0 +1,2 @@
+Our array: -1 -18 49 -93 63 
+The number of even numbers in odd places: 0

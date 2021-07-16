@@ -1,0 +1,5 @@
+﻿  zad12.cpp
+C:\Users\kazen\Desktop\Project\zad12\zad12\zad12.cpp(13,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kazen\Desktop\Project\zad12\zad12\zad12.cpp(25,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\kazen\Desktop\Project\zad12\zad12\zad12.cpp(38,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  zad12.vcxproj -> C:\Users\kazen\Desktop\Project\zad12\Debug\zad12.exe

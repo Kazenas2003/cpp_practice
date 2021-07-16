@@ -1,0 +1,3 @@
+﻿  zad4.cpp
+C:\Users\kazen\Desktop\Project\zad4\zad4\zad4.cpp(68,36): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  zad4.vcxproj -> C:\Users\kazen\Desktop\Project\zad4\Debug\zad4.exe

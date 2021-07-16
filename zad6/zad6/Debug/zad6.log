@@ -1,0 +1,5 @@
+﻿  zad6.cpp
+C:\Users\kazen\Desktop\Project\zad6\zad6\zad6.cpp(9,21): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\kazen\Desktop\Project\zad6\zad6\zad6.cpp(25,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kazen\Desktop\Project\zad6\zad6\zad6.cpp(37,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  zad6.vcxproj -> C:\Users\kazen\Desktop\Project\zad6\Debug\zad6.exe

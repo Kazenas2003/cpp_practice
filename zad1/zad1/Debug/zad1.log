@@ -1,0 +1,3 @@
+﻿  zad1.cpp
+C:\Users\kazen\Desktop\Project\zad1\zad1\zad1.cpp(7,18): warning C4101: mod: неиспользованная локальная переменная
+  zad1.vcxproj -> C:\Users\kazen\Desktop\Project\zad1\Debug\zad1.exe

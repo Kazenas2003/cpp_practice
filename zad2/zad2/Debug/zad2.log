@@ -1,0 +1,4 @@
+﻿  zad2.cpp
+C:\Users\kazen\Desktop\Project\zad2\zad2\zad2.cpp(35,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kazen\Desktop\Project\zad2\zad2\zad2.cpp(7,27): warning C4101: c: неиспользованная локальная переменная
+  zad2.vcxproj -> C:\Users\kazen\Desktop\Project\zad2\Debug\zad2.exe
